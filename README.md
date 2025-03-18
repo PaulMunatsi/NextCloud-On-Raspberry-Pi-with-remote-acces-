@@ -7,7 +7,7 @@ This guide provides a step-by-step process for installing Nextcloud (Dockerized)
 * **Raspberry Pi:**
     * Raspberry Pi 4 or 4B+ (recommended)
     * Reliable power supply
-    * microSD card (at least 32GB, 64GB or larger recommended)
+    * microSD card (at least 128GB, 256GB or larger recommended)
 * **Raspberry Pi OS:**
     * Raspberry Pi OS (64-bit) Lite or Desktop (Lite recommended for server applications)
     * Ensure your OS is up-to-date:
